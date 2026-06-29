@@ -11,3 +11,6 @@ Este proyecto aborda la resolución de la ecuación de onda utilizando modelos P
 ## Notas y Resultados
 - Se procedió a estudiar el uso de **muestreos aleatorios** en el dominio en vez de puntos fijos de colocación sobre una grilla.
 - También se exploró y estudió el uso de la simulación de la ecuación en dominios más complejos, particularmente **simulación 2D**.
+
+## Animacion
+![Animacion](ecuacion%20de%20onda_tf3_sampling_sin.git)
