@@ -13,4 +13,4 @@ Este proyecto aborda la resolución de la ecuación de onda utilizando modelos P
 - También se exploró y estudió el uso de la simulación de la ecuación en dominios más complejos, particularmente **simulación 2D**.
 
 ## Animacion
-![Animacion](ecuacion%20de%20onda_tf3_sampling_sin.git)
+![Animacion](ecuacion%20de%20onda_tf3_sampling_sin.gif)
