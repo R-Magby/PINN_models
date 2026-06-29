@@ -11,3 +11,7 @@ Este es un modelo de prueba diseñado para comprender y verificar cómo afecta e
 ## Notas y Resultados
 - Se verificó la necesidad de tener un dominio temporal inferior a 1 para que la simulación sea exitosa.
 - **Razón**: Esto se debe a que la pérdida asociada a la condición inicial (ic) tiene un impacto fuerte alrededor de dicho punto ($t=0$). A medida que evaluamos puntos más lejanos en el tiempo, la influencia e impacto de la condición inicial se debilita considerablemente.
+
+## Animación
+
+![Animacion](animacion.gif)
