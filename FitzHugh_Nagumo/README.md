@@ -13,3 +13,7 @@ Este proyecto consiste en resolver el sistema de ecuaciones acopladas del modelo
 - No se logró una buena simulación utilizando únicamente la pérdida de las ecuaciones y la condición inicial para un tiempo extenso ($T = 100$).
 - Sin embargo, para tiempos inferiores ($T < 10$), el resultado de la simulación fue perfecto.
 - Se implementó la técnica de *time marching* con la intención de mejorar los resultados a largo plazo, aunque no se obtuvieron grandes resultados.
+
+## Comparación
+
+![comparacion](comparacion.png)
